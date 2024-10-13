@@ -1,0 +1,1 @@
+web: java -jar target/springweb_v4.jar
